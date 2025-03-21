@@ -1,2 +1,5 @@
 # Instrumentacion_virtual_aplicadada
-Trabajos de Alejandro Alcántar, Daniel Bonilla y Uriel Emiliano
+Integrantes del equipo
+-Alejandro Alcántar Soto
+-Daniel Bonilla de Luna
+-Uriel Emiliano Santiago Vargas
